@@ -1,7 +1,6 @@
 # Azure-Data-Engineering
 
 https://colab.research.google.com/drive/1iy3FkueyUnh_Brq1hKVEKzpQ6uWjN8BL?usp=sharing
-# Azure Data Engineering Pipeline
 
 ## Project Overview
 This project demonstrates an end-to-end data engineering pipeline built on Microsoft Azure. It ingests raw CSV data, performs transformations using Databricks (Apache Spark), and stores the output in Parquet format for efficient querying and analytics.
